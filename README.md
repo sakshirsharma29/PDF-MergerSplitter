@@ -1,4 +1,4 @@
-# PDF-MergerSplitter
+# PDF Merger and Splitter Utility
 
 Project Overview:
 -----------------
